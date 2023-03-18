@@ -1,0 +1,11 @@
+1. pip install virtualenv
+
+
+for cretae in termenal
+2. python -m venv monna
+3. monna\Scripts\activate
+
+
+
+activate jode error dakhy tahole 
+4. Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
